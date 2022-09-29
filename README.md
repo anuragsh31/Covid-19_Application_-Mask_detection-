@@ -9,15 +9,19 @@
 
 ## Result:
 
-
+1. With Mask:
 
 ![](Detaset_example/download%20(1).jpg)            
 
 ![](Detaset_example/exp1_mask.jpg)
 
+2. Without Mask
+
 
 ![](Detaset_example/expp2.jpg)
 ![](Detaset_example/exp_nomask.jpg)
+
+3. Combining both
 
 
 ![](Detaset_example/images03.jpg)
